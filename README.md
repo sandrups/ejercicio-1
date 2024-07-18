@@ -1,2 +1,3 @@
 Instrucciones
-- U : Untracked , no estan rastreados, hace falta subirlos
+- U : Untracked, no estan rastreados, hace falta subirlos
+- A : Added, agregado, lo vigilará
